@@ -42,9 +42,9 @@ We aim to have our interview process take an average of 3 weeks from start to fi
 
 3. ** Phone and/or Interview Take-home Exercise **
 
-    - **Phone Interview:** The 30-minute phone interview with a member of the team covers skills related to the specific role. Provides techincal expectations and how we work as a engineering team. We give the candidate a chance to ask a team member questions.
+    - **Phone Interview:** The 30-minute phone interview with a member of the team covers skills related to the specific role, provides techincal expectations and how we work as a engineering team. We give the candidate a chance to ask a team member questions.
 
-    - **Take-home Exercise:** The take-home exercise typically takes 2-6 hours to complete and allows the hiring manager or a memeber of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise.  
+    - **Take-home Exercise:** The take-home exercise typically takes 2-6 hours to complete and allows the hiring manager or a memeber of the team to review a candidate’s skills before proceeding to the next step of the hiring process.
 
 
 4. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too. The recruiter will share an overview of who the candidate will be meeting with. The interview itself will including additional techinical probing and discussing the take-home exercise, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Avero. 
