@@ -40,7 +40,7 @@ We aim to have our interview process take an average of 3 weeks from start to fi
 
 2. **Recruiter Phone Screen:** If the candidate qualifies for the role, the recruiter will send an availability request for a 30-minute call to explore their background and experience. Depending on the outcome of the screening call, the candidate will either be rejected or proceed to a technical phone interview or a take-home exercise.
 
-3. ** Phone and/or Interview Take-home Exercise **
+3. **Phone and/or Interview Take-home Exercise**
 
     - **Phone Interview:** The 30-minute phone interview with a member of the team covers skills related to the specific role, provides techincal expectations and how we work as a engineering team. We give the candidate a chance to ask a team member questions.
 
